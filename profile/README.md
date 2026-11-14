@@ -1,10 +1,10 @@
 ## 九雲夢 — Guunmong
 
-**당나라 지도 위에서, 꿈이 끝나기 전에, 함께 잠든 여덟을 찾아 붙든다. 그리고 깨지 않는다.**
+**당나라 지도 위에서, 꿈이 끝나기 전에, 함께 잠든 여덟을 찾아 붙든다.**
 
-김만중의 고전 소설 《구운몽》(1687)을 원작으로 한 포인트 앤 클릭 × 덱빌딩 × 로그라이크입니다. 지금 개발 중입니다.
+김만중의 고전 소설 《구운몽》(1687)을 원작으로 한 알아야 살아남는 로그라이크 어드벤처입니다. 지금 개발 중입니다.
 
-*A point-and-click × deckbuilder × roguelike based on Kim Man-jung's 17th-century Korean classic* The Cloud Dream of the Nine. *In development.*
+*A knowledge-driven roguelike adventure based on Kim Man-jung's 17th-century Korean classic* The Cloud Dream of the Nine. *In development.*
 
 | | |
 | :--- | :--- |
